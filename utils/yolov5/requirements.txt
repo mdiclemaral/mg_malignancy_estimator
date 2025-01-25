@@ -1,0 +1,12 @@
+# YOLOv5 🚀 requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+gitpython
+numpy>=1.18.5
+PyYAML>=5.3.1
+torch>=1.7.0
+torchvision>=0.8.1
+
+# Plotting --------------------------------------------------------------------
+pandas>=1.1.4
